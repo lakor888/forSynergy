@@ -1,0 +1,26 @@
+{
+    "directories": [
+        "./documents",
+        "./projects"
+    ],
+    "file_extensions": [
+        ".txt",
+        ".py",
+        ".js",
+        ".html",
+        ".css",
+        ".md",
+        ".json"
+    ],
+    "backup_repo_path": "./backup_repo",
+    "remote_url": "https://github.com/lakor888/forSynergy.git",
+    "check_interval_minutes": 30,
+    "max_file_size_mb": 50,
+    "exclude_patterns": [
+        ".git",
+        "__pycache__",
+        "*.pyc",
+        "node_modules",
+        ".env"
+    ]
+}
